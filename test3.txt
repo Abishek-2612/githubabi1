@@ -1,1 +1,2 @@
 it's a new text file
+i have pulled the file from repository
